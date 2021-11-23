@@ -6,7 +6,7 @@
 
 <br>
 
-* [Defination](#object-oriented-programming-systems) - _Object-Oriented Programming, Class & Object_
+* [Defination](#definations) - _Object-Oriented Programming, Class & Object_
 * [this keyword](#this-keyword)
 * [Constructors](#constructors)
 * [Polymorphism](#polymorphism)
