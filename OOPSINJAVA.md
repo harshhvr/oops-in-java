@@ -1,5 +1,4 @@
-# OBJECT ORIENTED PROGRAMMING SYSTEMS
-# JAVA
+# OBJECT ORIENTED PROGRAMMING SYSTEMS - JAVA
 
 <br>
 
@@ -8,7 +7,7 @@
 <br>
 
 * [Defination](#object-oriented-programming-systems) - _Object-Oriented Programming, Class & Object_
-* [`this` keyword](#this-keyword)
+* [this keyword](#this-keyword)
 * [Constructors](#constructors)
 * [Polymorphism](#polymorphism)
 * [Inheritance](#inheritance)
@@ -16,8 +15,7 @@
 * [Access Modifiers in Java](#access-modifiers-in-java)
 * [Encapsulation](#encapsulation)
 * [Abstraction](#abstraction)
-* [`static` keyword](#static-keyword)
-
+* [static keyword](#static-keyword)
 
 <br>
 
@@ -25,9 +23,7 @@
 [`Previous`](#index) |
 [`Next`](#index)
 
-<br>
 <hr>
-<br>
 
 ## Definations
 
@@ -110,11 +106,9 @@ public class OOPS {
 [`Previous`](#static-keyword) |
 [`Next`](#this-keyword)
 
-<br>
 <hr>
-<br>
 
-## `this` keyword
+## this keyword
 
 <br>
 
@@ -128,9 +122,7 @@ refer to the current class instance variable
 [`Previous`](#definations) |
 [`Next`](#constructors)
 
-<br>
 <hr>
-<br>
 
 ## Constructors
 
@@ -200,9 +192,7 @@ class Student {
 [`Previous`](#this-keyword) |
 [`Next`](#polymorphism)
 
-<br>
 <hr>
-<br>
 
 ## Polymorphism
 
@@ -279,9 +269,7 @@ class Circle extends Shape {
 [`Previous`](#constructors) |
 [`Next`](#inheritance)
 
-<br>
 <hr>
-<br>
 
 ## Inheritance
 
@@ -362,9 +350,7 @@ simple, multiple inheritance and hierarchical inheritance.
 [`Previous`](#polymorphism) |
 [`Next`](#package-in-java)
 
-<br>
 <hr>
-<br>
 
 ## Package in Java
 
@@ -385,9 +371,7 @@ import java.io.IOException;
 [`Previous`](#inheritance) |
 [`Next`](#access-modifiers-in-java)
 
-<br>
 <hr>
-<br>
 
 ## Access Modifiers in Java
 
@@ -429,9 +413,7 @@ public class Sample {
 [`Previous`](#package-in-java) |
 [`Next`](#encapsulation)
 
-<br>
 <hr>
-<br>
 
 ## Encapsulation
 
@@ -445,9 +427,7 @@ public class Sample {
 [`Previous`](#access-modifiers-in-java) |
 [`Next`](#abstraction)
 
-<br>
 <hr>
-<br>
 
 ## Abstraction
 
@@ -550,11 +530,9 @@ public class OOPS {
 [`Previous`](#encapsulation) |
 [`Next`](#static-keyword)
 
-<br>
 <hr>
-<br>
 
-## `static` keyword
+## static keyword
 
 <br>
 
@@ -593,6 +571,4 @@ public class OOPS {
 [`Previous`](#abstraction) |
 [`Next`](#definations)
 
-<br>
 <hr>
-<br>
